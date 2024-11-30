@@ -1,5 +1,5 @@
 
-#   XChangeRate
+#   XChangeWise
 
 XChangeRate is a currency converter tool that allows users to convert between different currencies using real-time exchange rates. It fetches live data through an API and provides a simple, interactive interface built with HTML, CSS, and JavaScript, ensuring a smooth user experience for currency conversion. The app is designed to be responsive and easy to use, making it an efficient solution for quick currency calculations.
 ## Features
@@ -13,7 +13,7 @@ XChangeRate is a currency converter tool that allows users to convert between di
 
 ## Screenshot
 
-![XChangeRate](images\XChangeRate.png)
+![XChangeWise](./images/XChangeRate.png)
 
 
 
